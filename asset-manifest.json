@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/user%20profile%20card/static/css/main.f78cd816.css",
-    "main.js": "/user%20profile%20card/static/js/main.1a845116.js",
-    "static/js/787.be5933e1.chunk.js": "/user%20profile%20card/static/js/787.be5933e1.chunk.js",
-    "static/media/user2.png": "/user%20profile%20card/static/media/user2.1f68f9c5e2d364f432e6.png",
-    "index.html": "/user%20profile%20card/index.html",
-    "main.f78cd816.css.map": "/user%20profile%20card/static/css/main.f78cd816.css.map",
-    "main.1a845116.js.map": "/user%20profile%20card/static/js/main.1a845116.js.map",
-    "787.be5933e1.chunk.js.map": "/user%20profile%20card/static/js/787.be5933e1.chunk.js.map"
+    "main.css": "/user-profile-card/static/css/main.f78cd816.css",
+    "main.js": "/user-profile-card/static/js/main.e512c798.js",
+    "static/js/787.be5933e1.chunk.js": "/user-profile-card/static/js/787.be5933e1.chunk.js",
+    "static/media/user2.png": "/user-profile-card/static/media/user2.1f68f9c5e2d364f432e6.png",
+    "index.html": "/user-profile-card/index.html",
+    "main.f78cd816.css.map": "/user-profile-card/static/css/main.f78cd816.css.map",
+    "main.e512c798.js.map": "/user-profile-card/static/js/main.e512c798.js.map",
+    "787.be5933e1.chunk.js.map": "/user-profile-card/static/js/787.be5933e1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f78cd816.css",
-    "static/js/main.1a845116.js"
+    "static/js/main.e512c798.js"
   ]
 }
